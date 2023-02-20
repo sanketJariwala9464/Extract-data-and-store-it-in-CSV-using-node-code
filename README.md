@@ -11,5 +11,5 @@ npm i
 Use to run program.
 
 ```bash
-npm i
+node index.js
 ```
